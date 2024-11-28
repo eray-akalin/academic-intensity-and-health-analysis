@@ -25,12 +25,16 @@ In which academic workload increases respectively.
 **Preprocessing Data:** 
 - Import and clean the raw data.
 - Identify related and unrelated parts.  
+
 **Exploratory Data Analysis:** 
 - Determine trends and correlations using visualization techniques.
 - Specify patterns.  
-**Comparative Analysis:** 
+
+**Comparative Analysis:**
 - Compare changes in the data with respect to different timelines.  
+
 **Results and Inferences:** 
 - Come up with conclusions, propose improvements and indicate drawbacks based on findings.  
+
 **Presentation:** 
 - Make a report summarizing findings, inferences and methodologies used.  
