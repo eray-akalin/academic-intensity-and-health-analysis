@@ -1,4 +1,9 @@
-# Health Data and Academic Intensity Analysis
+# Health Data and Academic Intensity Analysis  
+My name is Musa Eray Akalın and this is my project proposal for DSA210 course at Sabancı University.  
+Student ID: 32242  
+
+## Motivation  
+I wonder how my daily habits change as academic workload increases. Hence, I decided to examine my physcial health data to observe alterations induced by increasing academic intensity. I intend to analyze my health data under three time period -prep school, freshman, sophomore- representing increase in academic workload respectively. By investigating trends and patterns, I hope to uncover how different academic schedules corralate with different physical health metrics.  
 
 ## Dataset
 **Source:** 
@@ -12,8 +17,7 @@
 **Time Periods:**
 - My preparatory school period
 - My freshman year
-- My sophomore year
-In which academic workload increases respectively.
+- My sophomore year  
 
 ## Project Idea
 
