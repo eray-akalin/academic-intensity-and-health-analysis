@@ -3,10 +3,12 @@
 ## Dataset
 **Source:** 
 - Data collected from my personal health metrics such as step count, flights climbed, energy burned.  
+  
 **Description:**
 - Data will be imported from Apple Health application in XML format.
 - Data includes time-sensitive health data related to different metrics. 
-- The data spans multiple timelines correlating with varying academic intensities, enabling detailed analysis of the relationship between health data and academic intensity.
+- The data spans multiple timelines correlating with varying academic intensities, enabling detailed analysis of the relationship between health data and academic intensity.  
+
 **Time Periods:**
 - My preparatory school period
 - My freshman year
