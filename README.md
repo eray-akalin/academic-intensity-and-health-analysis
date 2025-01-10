@@ -6,6 +6,18 @@
 
 ---
 
+## Table of Contents  
+1. [Motivation](#motivation)  
+2. [Dataset](#dataset)  
+3. [Project Idea](#project-idea)  
+4. [Project Plan](#project-plan)  
+5. [Findings](#findings)  
+6. [Limitations](#limitations)  
+7. [Future Work](#future-work)  
+8. [Links to Project Files](#links-to-project-files)  
+
+---
+
 ## Motivation  
 I wonder how my daily habits change as academic workload increases. Hence, I decided to examine my physical health data to observe alterations induced by increasing academic intensity. I intend to analyze my health data across three time periods—Prep School, Freshman, Sophomore—representing increases in academic workload, respectively. By investigating trends and patterns, I hope to uncover how different academic schedules correlate with various physical health metrics.
 
@@ -67,3 +79,10 @@ A dataset from an Apple Watch would likely provide more accurate data, as I do n
 
 ## Future Work  
 Upon graduation, I expect to have a more extensive database, allowing for more comprehensive and accurate analysis as more data accumulates. Collaborative analysis, incorporating data from peers, could also yield more insightful and robust outcomes.  
+
+---
+
+## Links to Project Files  
+
+- [Jupyter Notebook: DSA210_Project.ipynb](./DSA210_Project.ipynb)  
+- [Final Report: Final_Report.pptx](./Final%20Report.pptx)  
